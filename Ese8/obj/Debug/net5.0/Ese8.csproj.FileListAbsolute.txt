@@ -1,0 +1,16 @@
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\bin\Debug\net5.0\Ese8.exe
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\bin\Debug\net5.0\Ese8.deps.json
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\bin\Debug\net5.0\Ese8.runtimeconfig.json
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\bin\Debug\net5.0\Ese8.runtimeconfig.dev.json
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\bin\Debug\net5.0\Ese8.dll
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\bin\Debug\net5.0\ref\Ese8.dll
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\bin\Debug\net5.0\Ese8.pdb
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\obj\Debug\net5.0\Ese8.csprojAssemblyReference.cache
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\obj\Debug\net5.0\Ese8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\obj\Debug\net5.0\Ese8.AssemblyInfoInputs.cache
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\obj\Debug\net5.0\Ese8.AssemblyInfo.cs
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\obj\Debug\net5.0\Ese8.csproj.CoreCompileInputs.cache
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\obj\Debug\net5.0\Ese8.dll
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\obj\Debug\net5.0\ref\Ese8.dll
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\obj\Debug\net5.0\Ese8.pdb
+C:\Users\silvana.ombris\source\repos\Ese8\Ese8\obj\Debug\net5.0\Ese8.genruntimeconfig.cache
